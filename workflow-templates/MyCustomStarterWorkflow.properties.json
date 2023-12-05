@@ -3,7 +3,7 @@
     "description": "Custom Starter Workflow for my Organization.",
     "iconName": "octicon rocket",
     "categories": [
-        "csharp"
+        "continuous-integration"
     ],
     "filePatterns": [
         "package.json$",
