@@ -1,0 +1,13 @@
+{
+    "name": "My Custom Starter Workflow",
+    "description": "Custom Starter Workflow for my Organization.",
+    "iconName": "octicon rocket",
+    "categories": [
+        "csharp"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.cs$"
+    ]
+}
